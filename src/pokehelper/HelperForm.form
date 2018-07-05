@@ -1,0 +1,1829 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JSplitPane" name="jSplitPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JSplitPaneSupportLayout"/>
+    </Container>
+    <Container class="javax.swing.JMenuBar" name="jMenuBar1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Menu class="javax.swing.JMenu" name="jMenu1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="File"/>
+          </Properties>
+        </Menu>
+        <Menu class="javax.swing.JMenu" name="jMenu2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Edit"/>
+          </Properties>
+        </Menu>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JProgressBar" name="jProgressBar1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Simple PokeMMO Helper"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="cc" green="cc" red="cc" type="rgb"/>
+    </Property>
+    <Property name="name" type="java.lang.String" value="PokeMMO Helper V1.0 By EXTRATONE" noResource="true"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <AccessibilityProperties>
+    <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value=""/>
+  </AccessibilityProperties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="always" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTabbedPane1" alignment="0" min="-2" pref="571" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jTabbedPane1" min="-2" pref="460" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="always" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JCheckBox" name="always">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Always on Top"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="setAlways"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="setAlways2"/>
+        <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="setAlways2"/>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="setAlways2"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value=""/>
+      </AccessibilityProperties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel5">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Pok&#xe9;mon Hunter">
+                <Property name="tabTitle" type="java.lang.String" value="Pok&#xe9;mon Hunter"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jPanel11" min="-2" pref="381" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="eTime1" min="-2" pref="109" max="-2" attributes="0"/>
+                                          <Component id="eTier1" min="-2" pref="35" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Component id="jPanel6" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace pref="11" max="32767" attributes="0"/>
+                                      <Component id="jScrollPane8" min="-2" pref="140" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                          <Component id="jScrollPane7" min="-2" pref="140" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jScrollPane7" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="jPanel11" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jPanel6" max="32767" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="eTier1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="eTime1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jScrollPane8" pref="324" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel11">
+              <Properties>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="pokeName1" min="-2" pref="313" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="359" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="0" pref="6" max="32767" attributes="0"/>
+                          <Component id="pokeName1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="pokeName1">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Vijaya" size="48" style="0"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="000 - ????????"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="jPanel6">
+              <Properties>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+                <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[176, 290]"/>
+                </Property>
+                <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[176, 290]"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel21" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Component id="jScrollPane4" alignment="0" pref="245" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel21" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane4" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel21">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Vijaya" size="18" style="0"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Location"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JList" name="resultList">
+                      <Properties>
+                        <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                          <StringArray count="0"/>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Catch Rate:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Held Item:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="eTier1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="0"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="eTime1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="None"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane7">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="pokeList1">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="386">
+                        <StringItem index="0" value="001 - Bulbasaur"/>
+                        <StringItem index="1" value="002 - Ivysaur"/>
+                        <StringItem index="2" value="003 - Venusaur"/>
+                        <StringItem index="3" value="004 - Charmander"/>
+                        <StringItem index="4" value="005 - Charmeleon"/>
+                        <StringItem index="5" value="006 - Charizard"/>
+                        <StringItem index="6" value="007 - Squirtle"/>
+                        <StringItem index="7" value="008 - Wartortle"/>
+                        <StringItem index="8" value="009 - Blastoise"/>
+                        <StringItem index="9" value="010 - Caterpie"/>
+                        <StringItem index="10" value="011 - Metapod"/>
+                        <StringItem index="11" value="012 - Butterfree"/>
+                        <StringItem index="12" value="013 - Weedle"/>
+                        <StringItem index="13" value="014 - Kakuna"/>
+                        <StringItem index="14" value="015 - Beedrill"/>
+                        <StringItem index="15" value="016 - Pidgey"/>
+                        <StringItem index="16" value="017 - Pidgeotto"/>
+                        <StringItem index="17" value="018 - Pidgeot"/>
+                        <StringItem index="18" value="019 - Rattata"/>
+                        <StringItem index="19" value="020 - Raticate"/>
+                        <StringItem index="20" value="021 - Spearow"/>
+                        <StringItem index="21" value="022 - Fearow"/>
+                        <StringItem index="22" value="023 - Ekans"/>
+                        <StringItem index="23" value="024 - Arbok"/>
+                        <StringItem index="24" value="025 - Pikachu"/>
+                        <StringItem index="25" value="026 - Raichu"/>
+                        <StringItem index="26" value="027 - Sandshrew"/>
+                        <StringItem index="27" value="028 - Sandslash"/>
+                        <StringItem index="28" value="029 - Nidoran |f|"/>
+                        <StringItem index="29" value="030 - Nidorina"/>
+                        <StringItem index="30" value="031 - Nidoqueen"/>
+                        <StringItem index="31" value="032 - Nidoran |m|"/>
+                        <StringItem index="32" value="033 - Nidorino"/>
+                        <StringItem index="33" value="034 - Nidoking"/>
+                        <StringItem index="34" value="035 - Clefairy"/>
+                        <StringItem index="35" value="036 - Clefable"/>
+                        <StringItem index="36" value="037 - Vulpix"/>
+                        <StringItem index="37" value="038 - Ninetales"/>
+                        <StringItem index="38" value="039 - Jigglypuff"/>
+                        <StringItem index="39" value="040 - Wigglytuff"/>
+                        <StringItem index="40" value="041 - Zubat"/>
+                        <StringItem index="41" value="042 - Golbat"/>
+                        <StringItem index="42" value="043 - Oddish"/>
+                        <StringItem index="43" value="044 - Gloom"/>
+                        <StringItem index="44" value="045 - Vileplume"/>
+                        <StringItem index="45" value="046 - Paras"/>
+                        <StringItem index="46" value="047 - Parasect"/>
+                        <StringItem index="47" value="048 - Venonat"/>
+                        <StringItem index="48" value="049 - Venomoth"/>
+                        <StringItem index="49" value="050 - Diglett"/>
+                        <StringItem index="50" value="051 - Dugtrio"/>
+                        <StringItem index="51" value="052 - Meowth"/>
+                        <StringItem index="52" value="053 - Persian"/>
+                        <StringItem index="53" value="054 - Psyduck"/>
+                        <StringItem index="54" value="055 - Golduck"/>
+                        <StringItem index="55" value="056 - Mankey"/>
+                        <StringItem index="56" value="057 - Primeape"/>
+                        <StringItem index="57" value="058 - Growlithe"/>
+                        <StringItem index="58" value="059 - Arcanine"/>
+                        <StringItem index="59" value="060 - Poliwag"/>
+                        <StringItem index="60" value="061 - Poliwhirl"/>
+                        <StringItem index="61" value="062 - Poliwrath"/>
+                        <StringItem index="62" value="063 - Abra"/>
+                        <StringItem index="63" value="064 - Kadabra"/>
+                        <StringItem index="64" value="065 - Alakazam"/>
+                        <StringItem index="65" value="066 - Machop"/>
+                        <StringItem index="66" value="067 - Machoke"/>
+                        <StringItem index="67" value="068 - Machamp"/>
+                        <StringItem index="68" value="069 - Bellsprout"/>
+                        <StringItem index="69" value="070 - Weepinbell"/>
+                        <StringItem index="70" value="071 - Victreebel"/>
+                        <StringItem index="71" value="072 - Tentacool"/>
+                        <StringItem index="72" value="073 - Tentacruel"/>
+                        <StringItem index="73" value="074 - Geodude"/>
+                        <StringItem index="74" value="075 - Graveler"/>
+                        <StringItem index="75" value="076 - Golem"/>
+                        <StringItem index="76" value="077 - Ponyta"/>
+                        <StringItem index="77" value="078 - Rapidash"/>
+                        <StringItem index="78" value="079 - Slowpoke"/>
+                        <StringItem index="79" value="080 - Slowbro"/>
+                        <StringItem index="80" value="081 - Magnemite"/>
+                        <StringItem index="81" value="082 - Magneton"/>
+                        <StringItem index="82" value="083 - Farfetch&apos;d"/>
+                        <StringItem index="83" value="084 - Doduo"/>
+                        <StringItem index="84" value="085 - Dodrio"/>
+                        <StringItem index="85" value="086 - Seel"/>
+                        <StringItem index="86" value="087 - Dewgong"/>
+                        <StringItem index="87" value="088 - Grimer"/>
+                        <StringItem index="88" value="089 - Muk"/>
+                        <StringItem index="89" value="090 - Shellder"/>
+                        <StringItem index="90" value="091 - Cloyster"/>
+                        <StringItem index="91" value="092 - Gastly"/>
+                        <StringItem index="92" value="093 - Haunter"/>
+                        <StringItem index="93" value="094 - Gengar"/>
+                        <StringItem index="94" value="095 - Onix"/>
+                        <StringItem index="95" value="096 - Drowzee"/>
+                        <StringItem index="96" value="097 - Hypno"/>
+                        <StringItem index="97" value="098 - Krabby"/>
+                        <StringItem index="98" value="099 - Kingler"/>
+                        <StringItem index="99" value="100 - Voltorb"/>
+                        <StringItem index="100" value="101 - Electrode"/>
+                        <StringItem index="101" value="102 - Exeggcute"/>
+                        <StringItem index="102" value="103 - Exeggutor"/>
+                        <StringItem index="103" value="104 - Cubone"/>
+                        <StringItem index="104" value="105 - Marowak"/>
+                        <StringItem index="105" value="106 - Hitmonlee"/>
+                        <StringItem index="106" value="107 - Hitmonchan"/>
+                        <StringItem index="107" value="108 - Lickitung"/>
+                        <StringItem index="108" value="109 - Koffing"/>
+                        <StringItem index="109" value="110 - Weezing"/>
+                        <StringItem index="110" value="111 - Rhyhorn"/>
+                        <StringItem index="111" value="112 - Rhydon"/>
+                        <StringItem index="112" value="113 - Chansey"/>
+                        <StringItem index="113" value="114 - Tangela"/>
+                        <StringItem index="114" value="115 - Kangaskhan"/>
+                        <StringItem index="115" value="116 - Horsea"/>
+                        <StringItem index="116" value="117 - Seadra"/>
+                        <StringItem index="117" value="118 - Goldeen"/>
+                        <StringItem index="118" value="119 - Seaking"/>
+                        <StringItem index="119" value="120 - Staryu"/>
+                        <StringItem index="120" value="121 - Starmie"/>
+                        <StringItem index="121" value="122 - Mr. Mime"/>
+                        <StringItem index="122" value="123 - Scyther"/>
+                        <StringItem index="123" value="124 - Jynx"/>
+                        <StringItem index="124" value="125 - Electabuzz"/>
+                        <StringItem index="125" value="126 - Magmar"/>
+                        <StringItem index="126" value="127 - Pinsir"/>
+                        <StringItem index="127" value="128 - Tauros"/>
+                        <StringItem index="128" value="129 - Magikarp"/>
+                        <StringItem index="129" value="130 - Gyarados"/>
+                        <StringItem index="130" value="131 - Lapras"/>
+                        <StringItem index="131" value="132 - Ditto"/>
+                        <StringItem index="132" value="133 - Eevee"/>
+                        <StringItem index="133" value="134 - Vaporeon"/>
+                        <StringItem index="134" value="135 - Jolteon"/>
+                        <StringItem index="135" value="136 - Flareon"/>
+                        <StringItem index="136" value="137 - Porygon"/>
+                        <StringItem index="137" value="138 - Omanyte"/>
+                        <StringItem index="138" value="139 - Omastar"/>
+                        <StringItem index="139" value="140 - Kabuto"/>
+                        <StringItem index="140" value="141 - Kabutops"/>
+                        <StringItem index="141" value="142 - Aerodactyl"/>
+                        <StringItem index="142" value="143 - Snorlax"/>
+                        <StringItem index="143" value="144 - Articuno"/>
+                        <StringItem index="144" value="145 - Zapdos"/>
+                        <StringItem index="145" value="146 - Moltres"/>
+                        <StringItem index="146" value="147 - Dratini"/>
+                        <StringItem index="147" value="148 - Dragonair"/>
+                        <StringItem index="148" value="149 - Dragonite"/>
+                        <StringItem index="149" value="150 - Mewtwo"/>
+                        <StringItem index="150" value="151 - Mew"/>
+                        <StringItem index="151" value="152 - Chikorita"/>
+                        <StringItem index="152" value="153 - Bayleef"/>
+                        <StringItem index="153" value="154 - Meganium"/>
+                        <StringItem index="154" value="155 - Cyndaquil"/>
+                        <StringItem index="155" value="156 - Quilava"/>
+                        <StringItem index="156" value="157 - Typhlosion"/>
+                        <StringItem index="157" value="158 - Totodile"/>
+                        <StringItem index="158" value="159 - Croconaw"/>
+                        <StringItem index="159" value="160 - Feraligatr"/>
+                        <StringItem index="160" value="161 - Sentret"/>
+                        <StringItem index="161" value="162 - Furret"/>
+                        <StringItem index="162" value="163 - Hoothoot"/>
+                        <StringItem index="163" value="164 - Noctowl"/>
+                        <StringItem index="164" value="165 - Ledyba"/>
+                        <StringItem index="165" value="166 - Ledian"/>
+                        <StringItem index="166" value="167 - Spinarak"/>
+                        <StringItem index="167" value="168 - Ariados"/>
+                        <StringItem index="168" value="169 - Crobat"/>
+                        <StringItem index="169" value="170 - Chinchou"/>
+                        <StringItem index="170" value="171 - Lanturn"/>
+                        <StringItem index="171" value="172 - Pichu"/>
+                        <StringItem index="172" value="173 - Cleffa"/>
+                        <StringItem index="173" value="174 - Igglybuff"/>
+                        <StringItem index="174" value="175 - Togepi"/>
+                        <StringItem index="175" value="176 - Togetic"/>
+                        <StringItem index="176" value="177 - Natu"/>
+                        <StringItem index="177" value="178 - Xatu"/>
+                        <StringItem index="178" value="179 - Mareep"/>
+                        <StringItem index="179" value="180 - Flaaffy"/>
+                        <StringItem index="180" value="181 - Ampharos"/>
+                        <StringItem index="181" value="182 - Bellossom"/>
+                        <StringItem index="182" value="183 - Marill"/>
+                        <StringItem index="183" value="184 - Azumarill"/>
+                        <StringItem index="184" value="185 - Sudowoodo"/>
+                        <StringItem index="185" value="186 - Politoed"/>
+                        <StringItem index="186" value="187 - Hoppip"/>
+                        <StringItem index="187" value="188 - Skiploom"/>
+                        <StringItem index="188" value="189 - Jumpluff"/>
+                        <StringItem index="189" value="190 - Aipom"/>
+                        <StringItem index="190" value="191 - Sunkern"/>
+                        <StringItem index="191" value="192 - Sunflora"/>
+                        <StringItem index="192" value="193 - Yanma"/>
+                        <StringItem index="193" value="194 - Wooper"/>
+                        <StringItem index="194" value="195 - Quagsire"/>
+                        <StringItem index="195" value="196 - Espeon"/>
+                        <StringItem index="196" value="197 - Umbreon"/>
+                        <StringItem index="197" value="198 - Murkrow"/>
+                        <StringItem index="198" value="199 - Slowking"/>
+                        <StringItem index="199" value="200 - Misdreavus"/>
+                        <StringItem index="200" value="201 - Unown"/>
+                        <StringItem index="201" value="202 - Wobbuffet"/>
+                        <StringItem index="202" value="203 - Girafarig"/>
+                        <StringItem index="203" value="204 - Pineco"/>
+                        <StringItem index="204" value="205 - Forretress"/>
+                        <StringItem index="205" value="206 - Dunsparce"/>
+                        <StringItem index="206" value="207 - Gligar"/>
+                        <StringItem index="207" value="208 - Steelix"/>
+                        <StringItem index="208" value="209 - Snubbull"/>
+                        <StringItem index="209" value="210 - Granbull"/>
+                        <StringItem index="210" value="211 - Qwilfish"/>
+                        <StringItem index="211" value="212 - Scizor"/>
+                        <StringItem index="212" value="213 - Shuckle"/>
+                        <StringItem index="213" value="214 - Heracross"/>
+                        <StringItem index="214" value="215 - Sneasel"/>
+                        <StringItem index="215" value="216 - Teddiursa"/>
+                        <StringItem index="216" value="217 - Ursaring"/>
+                        <StringItem index="217" value="218 - Slugma"/>
+                        <StringItem index="218" value="219 - Magcargo"/>
+                        <StringItem index="219" value="220 - Swinub"/>
+                        <StringItem index="220" value="221 - Piloswine"/>
+                        <StringItem index="221" value="222 - Corsola"/>
+                        <StringItem index="222" value="223 - Remoraid"/>
+                        <StringItem index="223" value="224 - Octillery"/>
+                        <StringItem index="224" value="225 - Delibird"/>
+                        <StringItem index="225" value="226 - Mantine"/>
+                        <StringItem index="226" value="227 - Skarmory"/>
+                        <StringItem index="227" value="228 - Houndour"/>
+                        <StringItem index="228" value="229 - Houndoom"/>
+                        <StringItem index="229" value="230 - Kingdra"/>
+                        <StringItem index="230" value="231 - Phanpy"/>
+                        <StringItem index="231" value="232 - Donphan"/>
+                        <StringItem index="232" value="233 - Porygon2"/>
+                        <StringItem index="233" value="234 - Stantler"/>
+                        <StringItem index="234" value="235 - Smeargle"/>
+                        <StringItem index="235" value="236 - Tyrogue"/>
+                        <StringItem index="236" value="237 - Hitmontop"/>
+                        <StringItem index="237" value="238 - Smoochum"/>
+                        <StringItem index="238" value="239 - Elekid"/>
+                        <StringItem index="239" value="240 - Magby"/>
+                        <StringItem index="240" value="241 - Miltank"/>
+                        <StringItem index="241" value="242 - Blissey"/>
+                        <StringItem index="242" value="243 - Raikou"/>
+                        <StringItem index="243" value="244 - Entei"/>
+                        <StringItem index="244" value="245 - Suicune"/>
+                        <StringItem index="245" value="246 - Larvitar"/>
+                        <StringItem index="246" value="247 - Pupitar"/>
+                        <StringItem index="247" value="248 - Tyranitar"/>
+                        <StringItem index="248" value="249 - Lugia"/>
+                        <StringItem index="249" value="250 - Ho-oh"/>
+                        <StringItem index="250" value="251 - Celebi"/>
+                        <StringItem index="251" value="252 - Treecko"/>
+                        <StringItem index="252" value="253 - Grovyle"/>
+                        <StringItem index="253" value="254 - Sceptile"/>
+                        <StringItem index="254" value="255 - Torchic"/>
+                        <StringItem index="255" value="256 - Combusken"/>
+                        <StringItem index="256" value="257 - Blaziken"/>
+                        <StringItem index="257" value="258 - Mudkip"/>
+                        <StringItem index="258" value="259 - Marshtomp"/>
+                        <StringItem index="259" value="260 - Swampert"/>
+                        <StringItem index="260" value="261 - Poochyena"/>
+                        <StringItem index="261" value="262 - Mightyena"/>
+                        <StringItem index="262" value="263 - Zigzagoon"/>
+                        <StringItem index="263" value="264 - Linoone"/>
+                        <StringItem index="264" value="265 - Wurmple"/>
+                        <StringItem index="265" value="266 - Silcoon"/>
+                        <StringItem index="266" value="267 - Beautifly"/>
+                        <StringItem index="267" value="268 - Cascoon"/>
+                        <StringItem index="268" value="269 - Dustox"/>
+                        <StringItem index="269" value="270 - Lotad"/>
+                        <StringItem index="270" value="271 - Lombre"/>
+                        <StringItem index="271" value="272 - Ludicolo"/>
+                        <StringItem index="272" value="273 - Seedot"/>
+                        <StringItem index="273" value="274 - Nuzleaf"/>
+                        <StringItem index="274" value="275 - Shiftry"/>
+                        <StringItem index="275" value="276 - Taillow"/>
+                        <StringItem index="276" value="277 - Swellow"/>
+                        <StringItem index="277" value="278 - Wingull"/>
+                        <StringItem index="278" value="279 - Pelipper"/>
+                        <StringItem index="279" value="280 - Ralts"/>
+                        <StringItem index="280" value="281 - Kirlia"/>
+                        <StringItem index="281" value="282 - Gardevoir"/>
+                        <StringItem index="282" value="283 - Surskit"/>
+                        <StringItem index="283" value="284 - Masquerain"/>
+                        <StringItem index="284" value="285 - Shroomish"/>
+                        <StringItem index="285" value="286 - Breloom"/>
+                        <StringItem index="286" value="287 - Slakoth"/>
+                        <StringItem index="287" value="288 - Vigoroth"/>
+                        <StringItem index="288" value="289 - Slaking"/>
+                        <StringItem index="289" value="290 - Nincada"/>
+                        <StringItem index="290" value="291 - Ninjask"/>
+                        <StringItem index="291" value="292 - Shedinja"/>
+                        <StringItem index="292" value="293 - Whismur"/>
+                        <StringItem index="293" value="294 - Loudred"/>
+                        <StringItem index="294" value="295 - Exploud"/>
+                        <StringItem index="295" value="296 - Makuhita"/>
+                        <StringItem index="296" value="297 - Hariyama"/>
+                        <StringItem index="297" value="298 - Azurill"/>
+                        <StringItem index="298" value="299 - Nosepass"/>
+                        <StringItem index="299" value="300 - Skitty"/>
+                        <StringItem index="300" value="301 - Delcatty"/>
+                        <StringItem index="301" value="302 - Sableye"/>
+                        <StringItem index="302" value="303 - Mawile"/>
+                        <StringItem index="303" value="304 - Aron"/>
+                        <StringItem index="304" value="305 - Lairon"/>
+                        <StringItem index="305" value="306 - Aggron"/>
+                        <StringItem index="306" value="307 - Meditite"/>
+                        <StringItem index="307" value="308 - Medicham"/>
+                        <StringItem index="308" value="309 - Electrike"/>
+                        <StringItem index="309" value="310 - Manectric"/>
+                        <StringItem index="310" value="311 - Plusle"/>
+                        <StringItem index="311" value="312 - Minun"/>
+                        <StringItem index="312" value="313 - Volbeat"/>
+                        <StringItem index="313" value="314 - Illumise"/>
+                        <StringItem index="314" value="315 - Roselia"/>
+                        <StringItem index="315" value="316 - Gulpin"/>
+                        <StringItem index="316" value="317 - Swalot"/>
+                        <StringItem index="317" value="318 - Carvanha"/>
+                        <StringItem index="318" value="319 - Sharpedo"/>
+                        <StringItem index="319" value="320 - Wailmer"/>
+                        <StringItem index="320" value="321 - Wailord"/>
+                        <StringItem index="321" value="322 - Numel"/>
+                        <StringItem index="322" value="323 - Camerupt"/>
+                        <StringItem index="323" value="324 - Torkoal"/>
+                        <StringItem index="324" value="325 - Spoink"/>
+                        <StringItem index="325" value="326 - Grumpig"/>
+                        <StringItem index="326" value="327 - Spinda"/>
+                        <StringItem index="327" value="328 - Trapinch"/>
+                        <StringItem index="328" value="329 - Vibrava"/>
+                        <StringItem index="329" value="330 - Flygon"/>
+                        <StringItem index="330" value="331 - Cacnea"/>
+                        <StringItem index="331" value="332 - Cacturne"/>
+                        <StringItem index="332" value="333 - Swablu"/>
+                        <StringItem index="333" value="334 - Altaria"/>
+                        <StringItem index="334" value="335 - Zangoose"/>
+                        <StringItem index="335" value="336 - Seviper"/>
+                        <StringItem index="336" value="337 - Lunatone"/>
+                        <StringItem index="337" value="338 - Solrock"/>
+                        <StringItem index="338" value="339 - Barboach"/>
+                        <StringItem index="339" value="340 - Whiscash"/>
+                        <StringItem index="340" value="341 - Corphish"/>
+                        <StringItem index="341" value="342 - Crawdaunt"/>
+                        <StringItem index="342" value="343 - Baltoy"/>
+                        <StringItem index="343" value="344 - Claydol"/>
+                        <StringItem index="344" value="345 - Lileep"/>
+                        <StringItem index="345" value="346 - Cradily"/>
+                        <StringItem index="346" value="347 - Anorith"/>
+                        <StringItem index="347" value="348 - Armaldo"/>
+                        <StringItem index="348" value="349 - Feebas"/>
+                        <StringItem index="349" value="350 - Milotic"/>
+                        <StringItem index="350" value="351 - Castform"/>
+                        <StringItem index="351" value="352 - Kecleon"/>
+                        <StringItem index="352" value="353 - Shuppet"/>
+                        <StringItem index="353" value="354 - Banette"/>
+                        <StringItem index="354" value="355 - Duskull"/>
+                        <StringItem index="355" value="356 - Dusclops"/>
+                        <StringItem index="356" value="357 - Tropius"/>
+                        <StringItem index="357" value="358 - Chimecho"/>
+                        <StringItem index="358" value="359 - Absol"/>
+                        <StringItem index="359" value="360 - Wynaut"/>
+                        <StringItem index="360" value="361 - Snorunt"/>
+                        <StringItem index="361" value="362 - Glalie"/>
+                        <StringItem index="362" value="363 - Spheal"/>
+                        <StringItem index="363" value="364 - Sealeo"/>
+                        <StringItem index="364" value="365 - Walrein"/>
+                        <StringItem index="365" value="366 - Clamperl"/>
+                        <StringItem index="366" value="367 - Huntail"/>
+                        <StringItem index="367" value="368 - Gorebyss"/>
+                        <StringItem index="368" value="369 - Relicanth"/>
+                        <StringItem index="369" value="370 - Luvdisc"/>
+                        <StringItem index="370" value="371 - Bagon"/>
+                        <StringItem index="371" value="372 - Shelgon"/>
+                        <StringItem index="372" value="373 - Salamence"/>
+                        <StringItem index="373" value="374 - Beldum"/>
+                        <StringItem index="374" value="375 - Metang"/>
+                        <StringItem index="375" value="376 - Metagross"/>
+                        <StringItem index="376" value="377 - Regirock"/>
+                        <StringItem index="377" value="378 - Regice"/>
+                        <StringItem index="378" value="379 - Registeel"/>
+                        <StringItem index="379" value="380 - Latias"/>
+                        <StringItem index="380" value="381 - Latios"/>
+                        <StringItem index="381" value="382 - Kyogre"/>
+                        <StringItem index="382" value="383 - Groudon"/>
+                        <StringItem index="383" value="384 - Rayquaza"/>
+                        <StringItem index="384" value="385 - Jirachi"/>
+                        <StringItem index="385" value="386 - Deoxys"/>
+                      </StringArray>
+                    </Property>
+                    <Property name="name" type="java.lang.String" value="pokeList" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadHunter"/>
+                    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadHunter"/>
+                    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadHunter"/>
+                    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="loadHunter"/>
+                    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadHunter2"/>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadHunter2"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Search by Pok&#xe9;mon:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane8">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="locationList">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="0"/>
+                    </Property>
+                    <Property name="name" type="java.lang.String" value="pokeList" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadLoc"/>
+                    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadLoc"/>
+                    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadLoc"/>
+                    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="loadLoc"/>
+                    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadLoc2"/>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadLoc2"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Search by Location:"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Egg group Helper">
+                <Property name="tabTitle" type="java.lang.String" value="Egg group Helper"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jPanel10" alignment="1" min="-2" pref="384" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="eTime" min="-2" pref="109" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="eTier" min="-2" pref="35" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="jPanel7" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="68" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="jScrollPane1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jPanel10" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="jPanel4" max="32767" attributes="0"/>
+                                  <Component id="jPanel7" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="eTier" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="eTime" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jScrollPane1" min="-2" pref="395" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel10">
+              <Properties>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="pokeName" min="-2" pref="356" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="316" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="0" pref="6" max="32767" attributes="0"/>
+                          <Component id="pokeName" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="pokeName">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Vijaya" size="48" style="0"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="000 - ????????"/>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="jPanel4">
+              <Properties>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+                <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[176, 290]"/>
+                </Property>
+                <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[176, 290]"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="eggName1" min="-2" pref="81" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jScrollPane3" alignment="1" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel20" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="eggName1" alignment="3" min="-2" pref="12" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" pref="243" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel20">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Vijaya" size="18" style="0"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Egg group 1:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="eggName1">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="11" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="None"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JList" name="eggList1">
+                      <Properties>
+                        <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                          <StringArray count="0"/>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+            <Container class="javax.swing.JPanel" name="jPanel7">
+              <Properties>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+                    <EtchetBorder/>
+                  </Border>
+                </Property>
+                <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[176, 290]"/>
+                </Property>
+                <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[176, 290]"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel36" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="eggName2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jScrollPane9" min="-2" pref="176" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel36" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="eggName2" alignment="3" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane9" max="32767" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="jLabel36">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Vijaya" size="18" style="0"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="Egg group 2:"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="eggName2">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                      <Font name="Tahoma" size="11" style="1"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" value="None"/>
+                  </Properties>
+                </Component>
+                <Container class="javax.swing.JScrollPane" name="jScrollPane9">
+                  <AuxValues>
+                    <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+                  </AuxValues>
+
+                  <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+                  <SubComponents>
+                    <Component class="javax.swing.JList" name="eggList2">
+                      <Properties>
+                        <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                          <StringArray count="0"/>
+                        </Property>
+                      </Properties>
+                    </Component>
+                  </SubComponents>
+                </Container>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Egg Tier:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Egg Time:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="eTier">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="0"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="eTime">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="0"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="pokeList">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="386">
+                        <StringItem index="0" value="001 - Bulbasaur"/>
+                        <StringItem index="1" value="002 - Ivysaur"/>
+                        <StringItem index="2" value="003 - Venusaur"/>
+                        <StringItem index="3" value="004 - Charmander"/>
+                        <StringItem index="4" value="005 - Charmeleon"/>
+                        <StringItem index="5" value="006 - Charizard"/>
+                        <StringItem index="6" value="007 - Squirtle"/>
+                        <StringItem index="7" value="008 - Wartortle"/>
+                        <StringItem index="8" value="009 - Blastoise"/>
+                        <StringItem index="9" value="010 - Caterpie"/>
+                        <StringItem index="10" value="011 - Metapod"/>
+                        <StringItem index="11" value="012 - Butterfree"/>
+                        <StringItem index="12" value="013 - Weedle"/>
+                        <StringItem index="13" value="014 - Kakuna"/>
+                        <StringItem index="14" value="015 - Beedrill"/>
+                        <StringItem index="15" value="016 - Pidgey"/>
+                        <StringItem index="16" value="017 - Pidgeotto"/>
+                        <StringItem index="17" value="018 - Pidgeot"/>
+                        <StringItem index="18" value="019 - Rattata"/>
+                        <StringItem index="19" value="020 - Raticate"/>
+                        <StringItem index="20" value="021 - Spearow"/>
+                        <StringItem index="21" value="022 - Fearow"/>
+                        <StringItem index="22" value="023 - Ekans"/>
+                        <StringItem index="23" value="024 - Arbok"/>
+                        <StringItem index="24" value="025 - Pikachu"/>
+                        <StringItem index="25" value="026 - Raichu"/>
+                        <StringItem index="26" value="027 - Sandshrew"/>
+                        <StringItem index="27" value="028 - Sandslash"/>
+                        <StringItem index="28" value="029 - Nidoran |f|"/>
+                        <StringItem index="29" value="030 - Nidorina"/>
+                        <StringItem index="30" value="031 - Nidoqueen"/>
+                        <StringItem index="31" value="032 - Nidoran |m|"/>
+                        <StringItem index="32" value="033 - Nidorino"/>
+                        <StringItem index="33" value="034 - Nidoking"/>
+                        <StringItem index="34" value="035 - Clefairy"/>
+                        <StringItem index="35" value="036 - Clefable"/>
+                        <StringItem index="36" value="037 - Vulpix"/>
+                        <StringItem index="37" value="038 - Ninetales"/>
+                        <StringItem index="38" value="039 - Jigglypuff"/>
+                        <StringItem index="39" value="040 - Wigglytuff"/>
+                        <StringItem index="40" value="041 - Zubat"/>
+                        <StringItem index="41" value="042 - Golbat"/>
+                        <StringItem index="42" value="043 - Oddish"/>
+                        <StringItem index="43" value="044 - Gloom"/>
+                        <StringItem index="44" value="045 - Vileplume"/>
+                        <StringItem index="45" value="046 - Paras"/>
+                        <StringItem index="46" value="047 - Parasect"/>
+                        <StringItem index="47" value="048 - Venonat"/>
+                        <StringItem index="48" value="049 - Venomoth"/>
+                        <StringItem index="49" value="050 - Diglett"/>
+                        <StringItem index="50" value="051 - Dugtrio"/>
+                        <StringItem index="51" value="052 - Meowth"/>
+                        <StringItem index="52" value="053 - Persian"/>
+                        <StringItem index="53" value="054 - Psyduck"/>
+                        <StringItem index="54" value="055 - Golduck"/>
+                        <StringItem index="55" value="056 - Mankey"/>
+                        <StringItem index="56" value="057 - Primeape"/>
+                        <StringItem index="57" value="058 - Growlithe"/>
+                        <StringItem index="58" value="059 - Arcanine"/>
+                        <StringItem index="59" value="060 - Poliwag"/>
+                        <StringItem index="60" value="061 - Poliwhirl"/>
+                        <StringItem index="61" value="062 - Poliwrath"/>
+                        <StringItem index="62" value="063 - Abra"/>
+                        <StringItem index="63" value="064 - Kadabra"/>
+                        <StringItem index="64" value="065 - Alakazam"/>
+                        <StringItem index="65" value="066 - Machop"/>
+                        <StringItem index="66" value="067 - Machoke"/>
+                        <StringItem index="67" value="068 - Machamp"/>
+                        <StringItem index="68" value="069 - Bellsprout"/>
+                        <StringItem index="69" value="070 - Weepinbell"/>
+                        <StringItem index="70" value="071 - Victreebel"/>
+                        <StringItem index="71" value="072 - Tentacool"/>
+                        <StringItem index="72" value="073 - Tentacruel"/>
+                        <StringItem index="73" value="074 - Geodude"/>
+                        <StringItem index="74" value="075 - Graveler"/>
+                        <StringItem index="75" value="076 - Golem"/>
+                        <StringItem index="76" value="077 - Ponyta"/>
+                        <StringItem index="77" value="078 - Rapidash"/>
+                        <StringItem index="78" value="079 - Slowpoke"/>
+                        <StringItem index="79" value="080 - Slowbro"/>
+                        <StringItem index="80" value="081 - Magnemite"/>
+                        <StringItem index="81" value="082 - Magneton"/>
+                        <StringItem index="82" value="083 - Farfetch&apos;d"/>
+                        <StringItem index="83" value="084 - Doduo"/>
+                        <StringItem index="84" value="085 - Dodrio"/>
+                        <StringItem index="85" value="086 - Seel"/>
+                        <StringItem index="86" value="087 - Dewgong"/>
+                        <StringItem index="87" value="088 - Grimer"/>
+                        <StringItem index="88" value="089 - Muk"/>
+                        <StringItem index="89" value="090 - Shellder"/>
+                        <StringItem index="90" value="091 - Cloyster"/>
+                        <StringItem index="91" value="092 - Gastly"/>
+                        <StringItem index="92" value="093 - Haunter"/>
+                        <StringItem index="93" value="094 - Gengar"/>
+                        <StringItem index="94" value="095 - Onix"/>
+                        <StringItem index="95" value="096 - Drowzee"/>
+                        <StringItem index="96" value="097 - Hypno"/>
+                        <StringItem index="97" value="098 - Krabby"/>
+                        <StringItem index="98" value="099 - Kingler"/>
+                        <StringItem index="99" value="100 - Voltorb"/>
+                        <StringItem index="100" value="101 - Electrode"/>
+                        <StringItem index="101" value="102 - Exeggcute"/>
+                        <StringItem index="102" value="103 - Exeggutor"/>
+                        <StringItem index="103" value="104 - Cubone"/>
+                        <StringItem index="104" value="105 - Marowak"/>
+                        <StringItem index="105" value="106 - Hitmonlee"/>
+                        <StringItem index="106" value="107 - Hitmonchan"/>
+                        <StringItem index="107" value="108 - Lickitung"/>
+                        <StringItem index="108" value="109 - Koffing"/>
+                        <StringItem index="109" value="110 - Weezing"/>
+                        <StringItem index="110" value="111 - Rhyhorn"/>
+                        <StringItem index="111" value="112 - Rhydon"/>
+                        <StringItem index="112" value="113 - Chansey"/>
+                        <StringItem index="113" value="114 - Tangela"/>
+                        <StringItem index="114" value="115 - Kangaskhan"/>
+                        <StringItem index="115" value="116 - Horsea"/>
+                        <StringItem index="116" value="117 - Seadra"/>
+                        <StringItem index="117" value="118 - Goldeen"/>
+                        <StringItem index="118" value="119 - Seaking"/>
+                        <StringItem index="119" value="120 - Staryu"/>
+                        <StringItem index="120" value="121 - Starmie"/>
+                        <StringItem index="121" value="122 - Mr. Mime"/>
+                        <StringItem index="122" value="123 - Scyther"/>
+                        <StringItem index="123" value="124 - Jynx"/>
+                        <StringItem index="124" value="125 - Electabuzz"/>
+                        <StringItem index="125" value="126 - Magmar"/>
+                        <StringItem index="126" value="127 - Pinsir"/>
+                        <StringItem index="127" value="128 - Tauros"/>
+                        <StringItem index="128" value="129 - Magikarp"/>
+                        <StringItem index="129" value="130 - Gyarados"/>
+                        <StringItem index="130" value="131 - Lapras"/>
+                        <StringItem index="131" value="132 - Ditto"/>
+                        <StringItem index="132" value="133 - Eevee"/>
+                        <StringItem index="133" value="134 - Vaporeon"/>
+                        <StringItem index="134" value="135 - Jolteon"/>
+                        <StringItem index="135" value="136 - Flareon"/>
+                        <StringItem index="136" value="137 - Porygon"/>
+                        <StringItem index="137" value="138 - Omanyte"/>
+                        <StringItem index="138" value="139 - Omastar"/>
+                        <StringItem index="139" value="140 - Kabuto"/>
+                        <StringItem index="140" value="141 - Kabutops"/>
+                        <StringItem index="141" value="142 - Aerodactyl"/>
+                        <StringItem index="142" value="143 - Snorlax"/>
+                        <StringItem index="143" value="144 - Articuno"/>
+                        <StringItem index="144" value="145 - Zapdos"/>
+                        <StringItem index="145" value="146 - Moltres"/>
+                        <StringItem index="146" value="147 - Dratini"/>
+                        <StringItem index="147" value="148 - Dragonair"/>
+                        <StringItem index="148" value="149 - Dragonite"/>
+                        <StringItem index="149" value="150 - Mewtwo"/>
+                        <StringItem index="150" value="151 - Mew"/>
+                        <StringItem index="151" value="152 - Chikorita"/>
+                        <StringItem index="152" value="153 - Bayleef"/>
+                        <StringItem index="153" value="154 - Meganium"/>
+                        <StringItem index="154" value="155 - Cyndaquil"/>
+                        <StringItem index="155" value="156 - Quilava"/>
+                        <StringItem index="156" value="157 - Typhlosion"/>
+                        <StringItem index="157" value="158 - Totodile"/>
+                        <StringItem index="158" value="159 - Croconaw"/>
+                        <StringItem index="159" value="160 - Feraligatr"/>
+                        <StringItem index="160" value="161 - Sentret"/>
+                        <StringItem index="161" value="162 - Furret"/>
+                        <StringItem index="162" value="163 - Hoothoot"/>
+                        <StringItem index="163" value="164 - Noctowl"/>
+                        <StringItem index="164" value="165 - Ledyba"/>
+                        <StringItem index="165" value="166 - Ledian"/>
+                        <StringItem index="166" value="167 - Spinarak"/>
+                        <StringItem index="167" value="168 - Ariados"/>
+                        <StringItem index="168" value="169 - Crobat"/>
+                        <StringItem index="169" value="170 - Chinchou"/>
+                        <StringItem index="170" value="171 - Lanturn"/>
+                        <StringItem index="171" value="172 - Pichu"/>
+                        <StringItem index="172" value="173 - Cleffa"/>
+                        <StringItem index="173" value="174 - Igglybuff"/>
+                        <StringItem index="174" value="175 - Togepi"/>
+                        <StringItem index="175" value="176 - Togetic"/>
+                        <StringItem index="176" value="177 - Natu"/>
+                        <StringItem index="177" value="178 - Xatu"/>
+                        <StringItem index="178" value="179 - Mareep"/>
+                        <StringItem index="179" value="180 - Flaaffy"/>
+                        <StringItem index="180" value="181 - Ampharos"/>
+                        <StringItem index="181" value="182 - Bellossom"/>
+                        <StringItem index="182" value="183 - Marill"/>
+                        <StringItem index="183" value="184 - Azumarill"/>
+                        <StringItem index="184" value="185 - Sudowoodo"/>
+                        <StringItem index="185" value="186 - Politoed"/>
+                        <StringItem index="186" value="187 - Hoppip"/>
+                        <StringItem index="187" value="188 - Skiploom"/>
+                        <StringItem index="188" value="189 - Jumpluff"/>
+                        <StringItem index="189" value="190 - Aipom"/>
+                        <StringItem index="190" value="191 - Sunkern"/>
+                        <StringItem index="191" value="192 - Sunflora"/>
+                        <StringItem index="192" value="193 - Yanma"/>
+                        <StringItem index="193" value="194 - Wooper"/>
+                        <StringItem index="194" value="195 - Quagsire"/>
+                        <StringItem index="195" value="196 - Espeon"/>
+                        <StringItem index="196" value="197 - Umbreon"/>
+                        <StringItem index="197" value="198 - Murkrow"/>
+                        <StringItem index="198" value="199 - Slowking"/>
+                        <StringItem index="199" value="200 - Misdreavus"/>
+                        <StringItem index="200" value="201 - Unown"/>
+                        <StringItem index="201" value="202 - Wobbuffet"/>
+                        <StringItem index="202" value="203 - Girafarig"/>
+                        <StringItem index="203" value="204 - Pineco"/>
+                        <StringItem index="204" value="205 - Forretress"/>
+                        <StringItem index="205" value="206 - Dunsparce"/>
+                        <StringItem index="206" value="207 - Gligar"/>
+                        <StringItem index="207" value="208 - Steelix"/>
+                        <StringItem index="208" value="209 - Snubbull"/>
+                        <StringItem index="209" value="210 - Granbull"/>
+                        <StringItem index="210" value="211 - Qwilfish"/>
+                        <StringItem index="211" value="212 - Scizor"/>
+                        <StringItem index="212" value="213 - Shuckle"/>
+                        <StringItem index="213" value="214 - Heracross"/>
+                        <StringItem index="214" value="215 - Sneasel"/>
+                        <StringItem index="215" value="216 - Teddiursa"/>
+                        <StringItem index="216" value="217 - Ursaring"/>
+                        <StringItem index="217" value="218 - Slugma"/>
+                        <StringItem index="218" value="219 - Magcargo"/>
+                        <StringItem index="219" value="220 - Swinub"/>
+                        <StringItem index="220" value="221 - Piloswine"/>
+                        <StringItem index="221" value="222 - Corsola"/>
+                        <StringItem index="222" value="223 - Remoraid"/>
+                        <StringItem index="223" value="224 - Octillery"/>
+                        <StringItem index="224" value="225 - Delibird"/>
+                        <StringItem index="225" value="226 - Mantine"/>
+                        <StringItem index="226" value="227 - Skarmory"/>
+                        <StringItem index="227" value="228 - Houndour"/>
+                        <StringItem index="228" value="229 - Houndoom"/>
+                        <StringItem index="229" value="230 - Kingdra"/>
+                        <StringItem index="230" value="231 - Phanpy"/>
+                        <StringItem index="231" value="232 - Donphan"/>
+                        <StringItem index="232" value="233 - Porygon2"/>
+                        <StringItem index="233" value="234 - Stantler"/>
+                        <StringItem index="234" value="235 - Smeargle"/>
+                        <StringItem index="235" value="236 - Tyrogue"/>
+                        <StringItem index="236" value="237 - Hitmontop"/>
+                        <StringItem index="237" value="238 - Smoochum"/>
+                        <StringItem index="238" value="239 - Elekid"/>
+                        <StringItem index="239" value="240 - Magby"/>
+                        <StringItem index="240" value="241 - Miltank"/>
+                        <StringItem index="241" value="242 - Blissey"/>
+                        <StringItem index="242" value="243 - Raikou"/>
+                        <StringItem index="243" value="244 - Entei"/>
+                        <StringItem index="244" value="245 - Suicune"/>
+                        <StringItem index="245" value="246 - Larvitar"/>
+                        <StringItem index="246" value="247 - Pupitar"/>
+                        <StringItem index="247" value="248 - Tyranitar"/>
+                        <StringItem index="248" value="249 - Lugia"/>
+                        <StringItem index="249" value="250 - Ho-oh"/>
+                        <StringItem index="250" value="251 - Celebi"/>
+                        <StringItem index="251" value="252 - Treecko"/>
+                        <StringItem index="252" value="253 - Grovyle"/>
+                        <StringItem index="253" value="254 - Sceptile"/>
+                        <StringItem index="254" value="255 - Torchic"/>
+                        <StringItem index="255" value="256 - Combusken"/>
+                        <StringItem index="256" value="257 - Blaziken"/>
+                        <StringItem index="257" value="258 - Mudkip"/>
+                        <StringItem index="258" value="259 - Marshtomp"/>
+                        <StringItem index="259" value="260 - Swampert"/>
+                        <StringItem index="260" value="261 - Poochyena"/>
+                        <StringItem index="261" value="262 - Mightyena"/>
+                        <StringItem index="262" value="263 - Zigzagoon"/>
+                        <StringItem index="263" value="264 - Linoone"/>
+                        <StringItem index="264" value="265 - Wurmple"/>
+                        <StringItem index="265" value="266 - Silcoon"/>
+                        <StringItem index="266" value="267 - Beautifly"/>
+                        <StringItem index="267" value="268 - Cascoon"/>
+                        <StringItem index="268" value="269 - Dustox"/>
+                        <StringItem index="269" value="270 - Lotad"/>
+                        <StringItem index="270" value="271 - Lombre"/>
+                        <StringItem index="271" value="272 - Ludicolo"/>
+                        <StringItem index="272" value="273 - Seedot"/>
+                        <StringItem index="273" value="274 - Nuzleaf"/>
+                        <StringItem index="274" value="275 - Shiftry"/>
+                        <StringItem index="275" value="276 - Taillow"/>
+                        <StringItem index="276" value="277 - Swellow"/>
+                        <StringItem index="277" value="278 - Wingull"/>
+                        <StringItem index="278" value="279 - Pelipper"/>
+                        <StringItem index="279" value="280 - Ralts"/>
+                        <StringItem index="280" value="281 - Kirlia"/>
+                        <StringItem index="281" value="282 - Gardevoir"/>
+                        <StringItem index="282" value="283 - Surskit"/>
+                        <StringItem index="283" value="284 - Masquerain"/>
+                        <StringItem index="284" value="285 - Shroomish"/>
+                        <StringItem index="285" value="286 - Breloom"/>
+                        <StringItem index="286" value="287 - Slakoth"/>
+                        <StringItem index="287" value="288 - Vigoroth"/>
+                        <StringItem index="288" value="289 - Slaking"/>
+                        <StringItem index="289" value="290 - Nincada"/>
+                        <StringItem index="290" value="291 - Ninjask"/>
+                        <StringItem index="291" value="292 - Shedinja"/>
+                        <StringItem index="292" value="293 - Whismur"/>
+                        <StringItem index="293" value="294 - Loudred"/>
+                        <StringItem index="294" value="295 - Exploud"/>
+                        <StringItem index="295" value="296 - Makuhita"/>
+                        <StringItem index="296" value="297 - Hariyama"/>
+                        <StringItem index="297" value="298 - Azurill"/>
+                        <StringItem index="298" value="299 - Nosepass"/>
+                        <StringItem index="299" value="300 - Skitty"/>
+                        <StringItem index="300" value="301 - Delcatty"/>
+                        <StringItem index="301" value="302 - Sableye"/>
+                        <StringItem index="302" value="303 - Mawile"/>
+                        <StringItem index="303" value="304 - Aron"/>
+                        <StringItem index="304" value="305 - Lairon"/>
+                        <StringItem index="305" value="306 - Aggron"/>
+                        <StringItem index="306" value="307 - Meditite"/>
+                        <StringItem index="307" value="308 - Medicham"/>
+                        <StringItem index="308" value="309 - Electrike"/>
+                        <StringItem index="309" value="310 - Manectric"/>
+                        <StringItem index="310" value="311 - Plusle"/>
+                        <StringItem index="311" value="312 - Minun"/>
+                        <StringItem index="312" value="313 - Volbeat"/>
+                        <StringItem index="313" value="314 - Illumise"/>
+                        <StringItem index="314" value="315 - Roselia"/>
+                        <StringItem index="315" value="316 - Gulpin"/>
+                        <StringItem index="316" value="317 - Swalot"/>
+                        <StringItem index="317" value="318 - Carvanha"/>
+                        <StringItem index="318" value="319 - Sharpedo"/>
+                        <StringItem index="319" value="320 - Wailmer"/>
+                        <StringItem index="320" value="321 - Wailord"/>
+                        <StringItem index="321" value="322 - Numel"/>
+                        <StringItem index="322" value="323 - Camerupt"/>
+                        <StringItem index="323" value="324 - Torkoal"/>
+                        <StringItem index="324" value="325 - Spoink"/>
+                        <StringItem index="325" value="326 - Grumpig"/>
+                        <StringItem index="326" value="327 - Spinda"/>
+                        <StringItem index="327" value="328 - Trapinch"/>
+                        <StringItem index="328" value="329 - Vibrava"/>
+                        <StringItem index="329" value="330 - Flygon"/>
+                        <StringItem index="330" value="331 - Cacnea"/>
+                        <StringItem index="331" value="332 - Cacturne"/>
+                        <StringItem index="332" value="333 - Swablu"/>
+                        <StringItem index="333" value="334 - Altaria"/>
+                        <StringItem index="334" value="335 - Zangoose"/>
+                        <StringItem index="335" value="336 - Seviper"/>
+                        <StringItem index="336" value="337 - Lunatone"/>
+                        <StringItem index="337" value="338 - Solrock"/>
+                        <StringItem index="338" value="339 - Barboach"/>
+                        <StringItem index="339" value="340 - Whiscash"/>
+                        <StringItem index="340" value="341 - Corphish"/>
+                        <StringItem index="341" value="342 - Crawdaunt"/>
+                        <StringItem index="342" value="343 - Baltoy"/>
+                        <StringItem index="343" value="344 - Claydol"/>
+                        <StringItem index="344" value="345 - Lileep"/>
+                        <StringItem index="345" value="346 - Cradily"/>
+                        <StringItem index="346" value="347 - Anorith"/>
+                        <StringItem index="347" value="348 - Armaldo"/>
+                        <StringItem index="348" value="349 - Feebas"/>
+                        <StringItem index="349" value="350 - Milotic"/>
+                        <StringItem index="350" value="351 - Castform"/>
+                        <StringItem index="351" value="352 - Kecleon"/>
+                        <StringItem index="352" value="353 - Shuppet"/>
+                        <StringItem index="353" value="354 - Banette"/>
+                        <StringItem index="354" value="355 - Duskull"/>
+                        <StringItem index="355" value="356 - Dusclops"/>
+                        <StringItem index="356" value="357 - Tropius"/>
+                        <StringItem index="357" value="358 - Chimecho"/>
+                        <StringItem index="358" value="359 - Absol"/>
+                        <StringItem index="359" value="360 - Wynaut"/>
+                        <StringItem index="360" value="361 - Snorunt"/>
+                        <StringItem index="361" value="362 - Glalie"/>
+                        <StringItem index="362" value="363 - Spheal"/>
+                        <StringItem index="363" value="364 - Sealeo"/>
+                        <StringItem index="364" value="365 - Walrein"/>
+                        <StringItem index="365" value="366 - Clamperl"/>
+                        <StringItem index="366" value="367 - Huntail"/>
+                        <StringItem index="367" value="368 - Gorebyss"/>
+                        <StringItem index="368" value="369 - Relicanth"/>
+                        <StringItem index="369" value="370 - Luvdisc"/>
+                        <StringItem index="370" value="371 - Bagon"/>
+                        <StringItem index="371" value="372 - Shelgon"/>
+                        <StringItem index="372" value="373 - Salamence"/>
+                        <StringItem index="373" value="374 - Beldum"/>
+                        <StringItem index="374" value="375 - Metang"/>
+                        <StringItem index="375" value="376 - Metagross"/>
+                        <StringItem index="376" value="377 - Regirock"/>
+                        <StringItem index="377" value="378 - Regice"/>
+                        <StringItem index="378" value="379 - Registeel"/>
+                        <StringItem index="379" value="380 - Latias"/>
+                        <StringItem index="380" value="381 - Latios"/>
+                        <StringItem index="381" value="382 - Kyogre"/>
+                        <StringItem index="382" value="383 - Groudon"/>
+                        <StringItem index="383" value="384 - Rayquaza"/>
+                        <StringItem index="384" value="385 - Jirachi"/>
+                        <StringItem index="385" value="386 - Deoxys"/>
+                      </StringArray>
+                    </Property>
+                    <Property name="name" type="java.lang.String" value="pokeList" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadPoke"/>
+                    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadPoke"/>
+                    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadPoke"/>
+                    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="loadPoke"/>
+                    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadPoke2"/>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadPoke2"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Choose a Pok&#xe9;mon :"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Item Scavenger">
+                <Property name="tabTitle" type="java.lang.String" value="Item Scavenger"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane6" min="-2" pref="160" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jScrollPane2" alignment="0" min="-2" pref="159" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace pref="36" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jScrollPane5" min="-2" pref="160" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="name" min="-2" max="-2" attributes="0"/>
+                                  <Component id="location" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="jScrollPane6" alignment="1" pref="339" max="32767" attributes="0"/>
+                          <Component id="jScrollPane2" alignment="1" max="32767" attributes="0"/>
+                          <Component id="jScrollPane5" alignment="1" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="name" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="location" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="tmList">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="58">
+                        <StringItem index="0" value="TM01 - Focus Punch"/>
+                        <StringItem index="1" value="TM02 - Dragon Claw"/>
+                        <StringItem index="2" value="TM03 - Water Pulse"/>
+                        <StringItem index="3" value="TM04 - Calm Mind"/>
+                        <StringItem index="4" value="TM05 - Roar"/>
+                        <StringItem index="5" value="TM06 - Toxic"/>
+                        <StringItem index="6" value="TM07 - Hail"/>
+                        <StringItem index="7" value="TM08 - Bulk Up"/>
+                        <StringItem index="8" value="TM09 - Bullet Seed"/>
+                        <StringItem index="9" value="TM10 - Hidden Power"/>
+                        <StringItem index="10" value="TM11 - Sunny Day"/>
+                        <StringItem index="11" value="TM12 - Taunt"/>
+                        <StringItem index="12" value="TM13 - Ice Beam"/>
+                        <StringItem index="13" value="TM14 - Blizzard"/>
+                        <StringItem index="14" value="TM15 - Hyper Beam"/>
+                        <StringItem index="15" value="TM16 - Light Screen"/>
+                        <StringItem index="16" value="TM17 - Protect"/>
+                        <StringItem index="17" value="TM18 - Rain Dance"/>
+                        <StringItem index="18" value="TM19 - Giga Drain"/>
+                        <StringItem index="19" value="TM20 - Safeguard"/>
+                        <StringItem index="20" value="TM21 - Frustration"/>
+                        <StringItem index="21" value="TM22 - Solar Beam"/>
+                        <StringItem index="22" value="TM23 - Iron Tail"/>
+                        <StringItem index="23" value="TM24 - Thunderbolt"/>
+                        <StringItem index="24" value="TM25 - Thunder"/>
+                        <StringItem index="25" value="TM26 - Earthquake"/>
+                        <StringItem index="26" value="TM27 - Return"/>
+                        <StringItem index="27" value="TM28 - Dig"/>
+                        <StringItem index="28" value="TM29 - Psychic"/>
+                        <StringItem index="29" value="TM30 - Shadow Ball"/>
+                        <StringItem index="30" value="TM31 - Brick Break"/>
+                        <StringItem index="31" value="TM32 - Double Team"/>
+                        <StringItem index="32" value="TM33 - Reflect"/>
+                        <StringItem index="33" value="TM34 - Shockwave"/>
+                        <StringItem index="34" value="TM35 - Flamethrower"/>
+                        <StringItem index="35" value="TM36 - Sludge Bomb"/>
+                        <StringItem index="36" value="TM37 - Sandstorm"/>
+                        <StringItem index="37" value="TM38 - Fire Blast"/>
+                        <StringItem index="38" value="TM39 - Rock Tomb"/>
+                        <StringItem index="39" value="TM40 - Aerical Ace"/>
+                        <StringItem index="40" value="TM41 - Torment"/>
+                        <StringItem index="41" value="TM42 - Facade"/>
+                        <StringItem index="42" value="TM43 - Secret Power"/>
+                        <StringItem index="43" value="TM44 - Rest"/>
+                        <StringItem index="44" value="TM45 - Attract"/>
+                        <StringItem index="45" value="TM46 - Thief"/>
+                        <StringItem index="46" value="TM47 - Steel Wing"/>
+                        <StringItem index="47" value="TM48 - Skill Swap"/>
+                        <StringItem index="48" value="TM49 - Snatch"/>
+                        <StringItem index="49" value="TM50 - Overheat"/>
+                        <StringItem index="50" value="HM01 - Cut"/>
+                        <StringItem index="51" value="HM02 - Fly"/>
+                        <StringItem index="52" value="HM03 - Surf"/>
+                        <StringItem index="53" value="HM04 - Strength "/>
+                        <StringItem index="54" value="HM05 - Flash"/>
+                        <StringItem index="55" value="HM06 - Rock Smash"/>
+                        <StringItem index="56" value="HM07 - Waterfall"/>
+                        <StringItem index="57" value="HM08 - Dive"/>
+                      </StringArray>
+                    </Property>
+                    <Property name="name" type="java.lang.String" value="pokeList" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadTM"/>
+                    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadTM"/>
+                    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadTM"/>
+                    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="loadTM"/>
+                    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadTM2"/>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadTM2"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Choose an item:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="keyItemList">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="26">
+                        <StringItem index="0" value="Bike"/>
+                        <StringItem index="1" value="Bike Voucher"/>
+                        <StringItem index="2" value="Card Key"/>
+                        <StringItem index="3" value="Coin Case"/>
+                        <StringItem index="4" value="Dome Fossil"/>
+                        <StringItem index="5" value="Gold Teeth"/>
+                        <StringItem index="6" value="Good Rod"/>
+                        <StringItem index="7" value="Helix Fossil"/>
+                        <StringItem index="8" value="Itemfinder"/>
+                        <StringItem index="9" value="Lift Key"/>
+                        <StringItem index="10" value="Meteorite"/>
+                        <StringItem index="11" value="Oak&apos;s Parcel"/>
+                        <StringItem index="12" value="Old Amber"/>
+                        <StringItem index="13" value="Old Rod"/>
+                        <StringItem index="14" value="Pokeflute"/>
+                        <StringItem index="15" value="Rainbow Pass"/>
+                        <StringItem index="16" value="Ruby"/>
+                        <StringItem index="17" value="Sapphire"/>
+                        <StringItem index="18" value="Secret Key"/>
+                        <StringItem index="19" value="Silph Scope"/>
+                        <StringItem index="20" value="SS Ticket"/>
+                        <StringItem index="21" value="Super Rod"/>
+                        <StringItem index="22" value="Tea"/>
+                        <StringItem index="23" value="Town Map"/>
+                        <StringItem index="24" value="Tri Pass"/>
+                        <StringItem index="25" value="VS Seeker"/>
+                      </StringArray>
+                    </Property>
+                    <Property name="name" type="java.lang.String" value="pokeList" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadKeyItem"/>
+                    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadKeyItem"/>
+                    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadKeyItem"/>
+                    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="loadKeyItem"/>
+                    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadKeyItem2"/>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadKeyItem2"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Choose a TM/HM:"/>
+              </Properties>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="itemList">
+                  <Properties>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="57">
+                        <StringItem index="0" value="Amulet Coin"/>
+                        <StringItem index="1" value="Big Mushroom"/>
+                        <StringItem index="2" value="Big Pearl"/>
+                        <StringItem index="3" value="Black Belt"/>
+                        <StringItem index="4" value="Blackglasses"/>
+                        <StringItem index="5" value="Blue Shard"/>
+                        <StringItem index="6" value="Charcoal"/>
+                        <StringItem index="7" value="Chesto Berry"/>
+                        <StringItem index="8" value="Choice Band"/>
+                        <StringItem index="9" value="Cleanse Tag"/>
+                        <StringItem index="10" value="Deepseascale"/>
+                        <StringItem index="11" value="Deepseatooth"/>
+                        <StringItem index="12" value="Dragon Fang"/>
+                        <StringItem index="13" value="Dragon Scale"/>
+                        <StringItem index="14" value="Everstone"/>
+                        <StringItem index="15" value="Exp Share"/>
+                        <StringItem index="16" value="Focus Band"/>
+                        <StringItem index="17" value="Green Shard"/>
+                        <StringItem index="18" value="Hard Stone"/>
+                        <StringItem index="19" value="King&apos;s Rock"/>
+                        <StringItem index="20" value="Lax Incense"/>
+                        <StringItem index="21" value="Leftovers"/>
+                        <StringItem index="22" value="Light Ball"/>
+                        <StringItem index="23" value="Lucky Egg"/>
+                        <StringItem index="24" value="Lucky Punch"/>
+                        <StringItem index="25" value="Macho Brace"/>
+                        <StringItem index="26" value="Magnet"/>
+                        <StringItem index="27" value="Metal Coat"/>
+                        <StringItem index="28" value="Metal Powder"/>
+                        <StringItem index="29" value="Miracle Seed"/>
+                        <StringItem index="30" value="Moon Stone"/>
+                        <StringItem index="31" value="Mystic Water"/>
+                        <StringItem index="32" value="Nevermeltice"/>
+                        <StringItem index="33" value="Nugget"/>
+                        <StringItem index="34" value="Oran Berry"/>
+                        <StringItem index="35" value="Pearl"/>
+                        <StringItem index="36" value="Persim Berry"/>
+                        <StringItem index="37" value="Poison Barb"/>
+                        <StringItem index="38" value="Quick Claw"/>
+                        <StringItem index="39" value="Red Shard"/>
+                        <StringItem index="40" value="Sea Incense"/>
+                        <StringItem index="41" value="Sharp Beak"/>
+                        <StringItem index="42" value="Silk Scarf"/>
+                        <StringItem index="43" value="Silverpowder"/>
+                        <StringItem index="44" value="Sitrus Berry"/>
+                        <StringItem index="45" value="Smoke Ball"/>
+                        <StringItem index="46" value="Soft Sand"/>
+                        <StringItem index="47" value="Soothe Bell"/>
+                        <StringItem index="48" value="Star Piece"/>
+                        <StringItem index="49" value="Stardust"/>
+                        <StringItem index="50" value="Stick"/>
+                        <StringItem index="51" value="Sun Stone"/>
+                        <StringItem index="52" value="Thick Club"/>
+                        <StringItem index="53" value="Tiny Mushroom"/>
+                        <StringItem index="54" value="Twisted Spoon"/>
+                        <StringItem index="55" value="Yellow Flute"/>
+                        <StringItem index="56" value="Yellow Shard"/>
+                      </StringArray>
+                    </Property>
+                    <Property name="name" type="java.lang.String" value="pokeList" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadItem"/>
+                    <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadItem"/>
+                    <EventHandler event="mouseReleased" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="loadItem"/>
+                    <EventHandler event="mouseDragged" listener="java.awt.event.MouseMotionListener" parameters="java.awt.event.MouseEvent" handler="loadItem"/>
+                    <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadItem2"/>
+                    <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="loadItem2"/>
+                  </Events>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Choose a key item:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Name:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Location:"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="name">
+            </Component>
+            <Component class="javax.swing.JLabel" name="location">
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

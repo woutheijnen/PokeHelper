@@ -1,0 +1,1485 @@
+#20141121
+@Altering Cave
+041 - Zubat
+Walking
++
+
+@Berry Forest
+016 - Pidgey
+Walking
+017 - Pidgeotto
+Walking
+018 - Pidgeot
+Walking (Night)
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+048 - Venonat
+Walking
+049 - Venomoth
+Walking
+054 - Psyduck
+Walking / Surf / Super Rod
+055 - Golduck
+Surf
+060 - Poliwag
+Good Rod
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
+079 - Slowpoke
+Walking / Surf / Super Rod
+080 - Slowbro
+Surf
++
+
+@Bond Bridge
+016 - Pidgey
+Walking
+017 - Pidgeotto
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+048 - Venonat
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Super Rod
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Canyon Entrance
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking
+079 - Slowpoke
+Walking
++
+
+@Cape Brink
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+049 - Venomoth
+Walking (Night)
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Surf / Super Rod
+055 - Golduck
+Walking / Surf
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
+079 - Slowpoke
+Walking / Surf / Super Rod
+080 - Slowbro
+Walking / Surf
++
+
+@Celadon City Pond
+054 - Psyduck
+Surf
+079 - Slowpoke
+Surf
++
+
+@Cerulean Cave
+042 - Golbat
+Walking
+047 - Parasect
+Walking
+054 - Psyduck
+Surf / Super Rod
+055 - Golduck
+Surf
+057 - Primeape
+Walking
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+064 - Kadabra
+Walking
+067 - Machoke
+Walking
+074 - Geodude
+Rock Smash
+075 - Graveler
+Rock Smash
+079 - Slowpoke
+Surf / Super Rod
+080 - Slowbro
+Surf
++
+
+@Cerulean City
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Cinnabar Island
+054 - Psyduck
+Super Rod
+079 - Slowpoke
+Super Rod
+080 - Slowbro
+Super Rod
++
+
+@Cinnabar Mansion
+019 - Rattata
+Walking
+020 - Raticate
+Walking
+037 - Vulpix
+Walking
+058 - Growlithe
+Walking
++
+
+@Diglett's Cave
+050 - Diglett
+Walking
+051 - Dugtrio
+Walking
++
+
+@Four Island
+054 - Psyduck
+Surf / Super Rod
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Five Island
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Five Isle Meadow
+016 - Pidgey
+Walking
+017 - Pidgeotto
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Fuchsia City
+054 - Psyduck
+Surf / Super Rod
+060 - Poliwag
+Good Rod
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Game Corner
+035 - Clefairy
+Buy
+063 - Abra
+Buy
++
+
+@Green Path
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Icefall Cave
+041 - Zubat
+Walking
+042 - Golbat
+Walking
+054 - Psyduck
+Walking / Surf / Super Rod
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Walking / Surf / Super Rod
++
+
+@Lost Cave
+041 - Zubat
+Walking
+042 - Golbat
+Walking
++
+
+@Kindle Road
+022 - Fearow
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+074 - Geodude
+Walking / Rock Smash
+075 - Graveler
+Rock Smash
+077 - Ponyta
+Walking
+078 - Rapidash
+Walking
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Memorial Pillar
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Mt. Ember
+004 - Charmander
+Swarm
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+066 - Machop
+Walking
+067 - Machoke
+Walking / Walking (Night)
+074 - Geodude
+Walking / Rock Smash
+075 - Graveler
+Rock Smash
+077 - Ponyta
+Walking
+078 - Rapidash
+Walking
+126 - Magmar
+Walking
+218 - Slugma
+Walking
+219 - Magcargo
+Walking
+229 - Houndoom
+Walking (Night)
++
+
+@Mt. Moon
+035 - Clefairy
+Walking
+041 - Zubat
+Walking
+046 - Paras
+Walking
+074 - Geodude
+Walking
++
+
+@One Island
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Outcast Island
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Pallet Town
+001 - Bulbasaur
+Starter
+004 - Charmander
+Starter
+007 - Squirtle
+Starter
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
+090 - Shellder
+Super Rod
+120 - Staryu
+Super Rod
+129 - Magikarp
+Old Rod
+130 - Gyarados
+Super Rod
++
+
+@Pattern Bush
+001 - Bulbasaur
+Swarm
+010 - Caterpie
+Walking
+011 - Metapod
+Walking
+012 - Butterfree
+Walking (Night)
+013 - Weedle
+Walking
+014 - Kakuna
+Walking
+015 - Beedrill
+Walking (Night)
+165 - Ledyba
+Walking
+166 - Ledian
+Walking (Night)
+167 - Spinarak
+Walking
+168 - Ariados
+Walking (Night)
+214 - Heracross
+Walking
+265 - Wurmple
+Walking (Night)
+267 - Beautifly
+Walking (Night)
++
+
+@Power Plant
+025 - Pikachu
+Walking
++
+
+@Resort Gorgeous
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Rock Tunnel
+041 - Zubat
+Walking
+056 - Mankey
+Walking
+066 - Machop
+Walking
+074 - Geodude
+Walking / Rock Smash
+075 - Graveler
+Rock Smash
++
+
+@Route 1
+010 - Caterpie
+Walking (Night)
+016 - Pidgey
+Walking
+019 - Rattata
+Walking
++
+
+@Route 2
+010 - Caterpie
+Walking
+013 - Weedle
+Walking
+016 - Pidgey
+Walking
+019 - Rattata
+Walking
++
+
+@Route 3
+016 - Pidgey
+Walking
+021 - Spearow
+Walking
+023 - Ekans
+Walking (Night)
+029 - Nidoran |f|
+Walking
+032 - Nidoran |m|
+Walking
+035 - Clefairy
+Walking (Night)
+039 - Jigglypuff
+Walking
+041 - Zubat
+Walking (Night)
+056 - Mankey
+Walking
++
+
+@Route 4
+019 - Rattata
+Walking
+021 - Spearow
+Walking
+023 - Ekans
+Walking
+027 - Sandshrew
+Walking
+041 - Zubat
+Walking (Night)
+054 - Psyduck
+Super Rod
+056 - Mankey
+Walking
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 5
+016 - Pidgey
+Walking
+029 - Nidoran |f|
+Trade for Nidoran |m|
+030 - Nidorina
+Trade for Nidorino
+043 - Oddish
+Walking
+048 - Venonat
+Walking (Night)
+052 - Meowth
+Walking
+069 - Bellsprout
+Walking
++
+
+@Route 6
+016 - Pidgey
+Walking
+043 - Oddish
+Walking
+052 - Meowth
+Walking
+054 - Psyduck
+Surf / Super Rod
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+069 - Bellsprout
+Walking
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Route 7
+016 - Pidgey
+Walking
+020 - Raticate
+Walking (Night)
+037 - Vulpix
+Walking
+043 - Oddish
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking (Night)
+058 - Growlithe
+Walking
+069 - Bellsprout
+Walking
++
+
+@Route 8
+016 - Pidgey
+Walking
+023 - Ekans
+Walking
+027 - Sandshrew
+Walking
+037 - Vulpix
+Walking
+052 - Meowth
+Walking
+058 - Growlithe
+Walking
++
+
+@Route 9
+019 - Rattata
+Walking
+021 - Spearow
+Walking
+023 - Ekans
+Walking
+027 - Sandshrew
+Walking
+035 - Clefairy
+Walking (Night)
+041 - Zubat
+Walking (Night)
+048 - Venonat
+Walking (Night)
+063 - Abra
+Walking (Night)
++
+
+@Route 10
+021 - Spearow
+Walking
+023 - Ekans
+Walking
+027 - Sandshrew
+Walking
+041 - Zubat
+Walking (Night)
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 11
+021 - Spearow
+Walking
+023 - Ekans
+Walking
+027 - Sandshrew
+Walking
+041 - Zubat
+Walking (Night)
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 12
+016 - Pidgey
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+048 - Venonat
+Walking
+054 - Psyduck
+Super Rod
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 13
+016 - Pidgey
+Walking
+017 - Pidgeotto
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+048 - Venonat
+Walking
+054 - Psyduck
+Super Rod
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 14
+016 - Pidgey
+Walking
+017 - Pidgeotto
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+048 - Venonat
+Walking
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
++
+
+@Route 15
+016 - Pidgey
+Walking
+017 - Pidgeotto
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+048 - Venonat
+Walking
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
++
+
+@Route 16
+019 - Rattata
+Walking
+020 - Raticate
+Walking
+021 - Spearow
+Walking
+048 - Venonat
+Walking (Night)
++
+
+@Route 17
+019 - Rattata
+Walking
+020 - Raticate
+Walking
+021 - Spearow
+Walking
+022 - Fearow
+Walking
++
+
+@Route 18
+019 - Rattata
+Walking
+020 - Raticate
+Walking
+021 - Spearow
+Walking
+022 - Fearow
+Walking
++
+
+@Route 19
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 20
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 21
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 22
+019 - Rattata
+Walking
+021 - Spearow
+Walking
+054 - Psyduck
+Surf / Super Rod
+056 - Mankey
+Walking
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+077 - Ponyta
+Swarm
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Route 23
+020 - Raticate
+Walking (Night)
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+023 - Ekans
+Walking
+024 - Arbok
+Walking
+027 - Sandshrew
+Walking
+028 - Sandslash
+Walking
+042 - Golbat
+Walking (Night)
+048 - Venonat
+Walking (Night)
+054 - Psyduck
+Surf / Super Rod
+056 - Mankey
+Walking
+057 - Primeape
+Walking
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Route 24
+010 - Caterpie
+Walking
+011 - Metapod
+Walking
+012 - Butterfree
+Walking (Night)
+013 - Weedle
+Walking
+014 - Kakuna
+Walking
+016 - Pidgey
+Walking
+043 - Oddish
+Walking
+054 - Psyduck
+Super Rod
+063 - Abra
+Walking
+069 - Bellsprout
+Walking
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Route 25
+010 - Caterpie
+Walking
+011 - Metapod
+Walking
+012 - Butterfree
+Walking (Night)
+013 - Weedle
+Walking
+014 - Kakuna
+Walking
+016 - Pidgey
+Walking
+043 - Oddish
+Walking
+048 - Venonat
+Walking (Night)
+054 - Psyduck
+Surf / Super Rod
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+063 - Abra
+Walking
+069 - Bellsprout
+Walking
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Ruin Valley
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Super Rod
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Safari Zone
+029 - Nidoran |f|
+Walking
+030 - Nidorina
+Walking
+032 - Nidoran |m|
+Walking
+033 - Nidorino
+Walking
+046 - Paras
+Walking
+047 - Parasect
+Walking
+048 - Venonat
+Walking
+049 - Venomoth
+Walking
+054 - Psyduck
+Surf / Super Rod
+060 - Poliwag
+Good Rod
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Seafoam Islands
+041 - Zubat
+Walking
+042 - Golbat
+Walking
+054 - Psyduck
+Walking / Surf / Super Rod
+055 - Golduck
+Walking / Surf
+079 - Slowpoke
+Walking / Surf / Super Rod
+080 - Slowbro
+Walking / Surf
++
+
+@Sevault Canyon
+022 - Fearow
+Walking
+028 - Sandslash
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+074 - Geodude
+Rock Smash
+075 - Graveler
+Rock Smash
++
+
+@Tanoby Ruins
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Trainer Tower
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Treasure Beach
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Vermilion City
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Victory Road
+024 - Arbok
+Walking
+028 - Sandslash
+Walking
+042 - Golbat
+Walking
+057 - Primeape
+Walking
+066 - Machop
+Walking
+067 - Machoke
+Walking
+074 - Geodude
+Walking
++
+
+@Viridian City
+054 - Psyduck
+Surf / Super Rod
+060 - Poliwag
+Super Rod / Good Rod
+061 - Poliwhirl
+Super Rod
+079 - Slowpoke
+Surf / Super Rod
++
+
+@Viridian Forest
+010 - Caterpie
+Walking
+011 - Metapod
+Walking
+013 - Weedle
+Walking
+014 - Kakuna
+Walking
+025 - Pikachu
+Walking
++
+
+@Water Labyrinth
+054 - Psyduck
+Super Rod
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Super Rod
++
+
+@Water Path
+007 - Squirtle
+Swarm
+021 - Spearow
+Walking
+022 - Fearow
+Walking
+043 - Oddish
+Walking
+044 - Gloom
+Walking
+052 - Meowth
+Walking
+053 - Persian
+Walking
+054 - Psyduck
+Walking / Super Rod
+069 - Bellsprout
+Walking
+070 - Weepinbell
+Walking
+072 - Tentacool
+Surf
+073 - Tentacruel
+Surf
+079 - Slowpoke
+Walking / Super Rod
+098 - Krabby
+Super Rod / Good Rod
+099 -Kingler
+Super Rod
+116 - Horsea
+Super Rod
+117 - Seadra
+Super Rod
+129 - Magikarp
+Old Rod
+130 - Gyarados
+Super Rod
+161 - Sentret
+Walking
+211 - Qwilfish
+Super Rod
++
+
+@Evolution
+002 - Ivysaur
+Level 16
+003 - Venusaur
+Level 32
+005 - Charmeleon
+Level 16
+006 - Charizard
+Level 36
+008 - Wartortle
+Level 16
+009 - Blastoise
+Level 36
+011 - Metapod
+Level 7
+012 - Butterfree
+Level 10
+014 - Kakuna
+Level 7
+015 - Beedrill
+Level 10
+017 - Pidgeotto
+Level 18
+018 - Pidgeot
+Level 36
+020 - Raticate
+Level 20
+022 - Fearow
+Level 20
+024 - Arbok
+Level 22
+025 - Pikachu
+Happiness
+026 - Raichu
+Thunderstone
+028 - Sandslash
+Level 22
+030 - Nidorina
+Level 16
+031 - Nidoqueen
+Moon Stone
+033 - Nidorino
+Level 16
+034 - Nidoking
+Moon Stone
+035 - Clefairy
+Happiness
+036 - Clefable
+Moon Stone
+038 - Ninetales
+Fire Stone
+039 - Jigglypuff
+Happiness
+040 - Wigglytuff
+Moon Stone
+042 - Golbat
+Level 22
+044 - Gloom
+Level 21
+045 - Vileplume
+Leaf Stone
+047 - Parasect
+Level 24
+049 - Venomoth
+Level 31
+051 - Dugtrio
+Level 26
+053 - Persian
+Level 28
+055 - Golduck
+Level 33
+057 - Primeape
+Level 28
+059 - Arcanine
+Fire Stone
+061 - Poliwhirl
+Level 25
+062 - Poliwrath
+Water Stone
+064 - Kadabra
+Level 16
+065 - Alakazam
+Trade
+067 - Machoke
+Level 28
+068 - Machamp
+Trade
+070 - Weepinbell
+Level 21
+071 - Victreebel
+Leaf Stone
+073 - Tentacruel
+Level 30
+075 - Graveler
+Level 25
+076 - Golem
+Trade
+078 - Rapidash
+Level 40
+080 - Slowbro
+Level 37
+082 - Magneton
+Level 30
+085 - Dodrio
+Level 31
+087 - Dewgong
+Level 34
+089 - Muk
+Level 38
+091 - Cloyster
+Water Stone
+093 - Haunter
+Level 25
+094 - Gengar
+Trade
+097 - Hypno
+Level 26
+099 - Kingler
+Level 28
+101 - Electrode
+Level 30
+103 - Exeggutor
+Leaf Stone
+105 - Marowak
+Level 28
+106 - Hitmonlee
+Level 20 (Att > Def)
+107 - Hitmonchan
+Level 20 (Att < Def)
+110 - Weezing
+Level 35
+112 - Rhydon
+Level 42
+117 - Seadra
+Level 32
+119 - Seaking
+Level 33
+121 - Starmie
+Water Stone
+124 - Jynx
+Level 30
+125 - Electabuzz
+Level 30
+126 - Magmar
+Level 30
+130 - Gyarados
+Level 20
+134 - Vaporeon
+Water Stone
+135 - Jolteon
+Thunderstone
+136 - Flareon
+Fire Stone
+139 - Omastar
+Level 40
+141 - Kabutops
+Level 40
+148 - Dragonair
+Level 30
+149 - Dragonite
+Level 55
+153 - Bayleef
+Level 16
+154 - Meganium
+Level 32
+156 - Quilava
+Level 14
+157 - Typhlosion
+Level 36
+159 - Croconaw
+Level 18
+160 - Feraligatr
+Level 30
+162 - Furret
+Level 15
+164 - Noctowl
+Level 20
+166 - Ledian
+Level 18
+168 - Ariados
+Level 22
+169 - Crobat
+Happiness
+171 - Lanturn
+Level 27
+176 - Togetic
+Happiness
+178 - Xatu
+Level 25
+180 - Flaaffy
+Level 15
+181 - Ampharos
+Level 30
+182 - Bellossom
+Sun Sone
+183 - Marill
+Happiness
+184 - Azumarill
+Level 18
+186 - Politoed
+Trade with Kings Rock
+188 - Skiploom
+Level 18
+189 - Jumpluff
+Level 27
+192 - Sunflora
+Sun Stone
+195 - Quagsire
+Level 20
+196 - Espeon
+Happiness (Day)
+197 - Umbreon
+Happiness (Night)
+199 - Slowking
+Trade with Kings Rock
+202 - Wobbuffet
+Level 15
+205 - Forretress
+Level 31
+208 - Steelix
+Trade with Metal Coat
+210 - Grandbull
+Level 23
+212 - Scizor
+Trade with Metal Coat
+217 - Ursaring
+Level 30
+219 - Magcargo
+Level 38
+221 - Piloswine
+Level 33
+224 - Octillery
+Level 25
+229 - Houndoom
+Level 24
+230 - Kingdra
+Trade with Dragon Scale
+232 - Donphan
+Level 25
+233 - Porygon2
+Trade with Up-Grade
+237 - Hitmontop
+Level 20 (Atk = Def)
+242 - Blissey
+Happiness
+247 - Pupitar
+Level 30
+248 - Tyranitar
+Level 55
+253 - Grovyle
+Level 16
+254 - Sceptile
+Level 36
+256 - Combusken
+Level 16
+257 - Blaziken
+Level 36
+259 - Marshtomp
+Level 16
+260 - Swampert
+Level 36
+262 - Mightyena
+Level 18
+264 - Linoone
+Level 20
+266 - Silcoon
+Level 7 (Based on Personality)
+267 - Beautifly
+Level 10
+268 - Cascoon
+Level 7 (Based on Personality)
+269 - Dustox
+Level 10
+271 - Lombre
+Level 14
+272 - Ludicolo
+Water Stone
+274 - Nuzleaf
+Level 14
+275 - Shiftry
+Leaf Stone
+277 - Swellow
+Level 22
+279 - Pelipper
+Level 25
+281 - Kirlia
+Level 20
+282 - Gardevoir
+Level 30
+284 - Masquerain
+Level 22
+286 - Breloom
+Level 23
+288 - Vigoroth
+Level 18
+289 - Slaking
+Level 36
+291 - Ninjask
+Level 20
+292 - Shedinja
+Level 20 (With empty spot in party and Pokeball in bag)
+294 - Loudred
+Level 20
+295 - Exploud
+Level 40
+297 - Hariyama
+Level 24
+301 - Delcatty
+Moon Stone
+305 - Lairon
+Level 32
+306 - Aggron
+Level 42
+308 - Medicham
+Level 37
+310 - Manectric
+Level 26
+317 - Swalot
+Level 26
+319 - Sharpedo
+Level 30
+321 - Wailord
+Level 40
+323 - Camerupt
+Level 33
+326 - Grumpig
+Level 32
+329 - Vibrava
+Level 35
+330 - Flygon
+Level 45
+332 - Cacturne
+Level 32
+334 - Altaria
+Level 35
+340 - Whiscash
+Level 30
+342 - Crawdaunt
+Level 30
+344 - Claydol
+Level 36
+346 - Cradily
+Level 40
+348 - Armaldo
+Level 40
+350 - Milotic
+Max Beauty
+354 - Banette
+Level 37
+356 - Dusclops
+Level 37
+362 - Glalie
+Level 42
+364 - Sealeo
+Level 32
+365 - Walrein
+Level 44
+367 - Huntail
+Trade with Deepseatooth
+368 - Gorebyss
+Trade with Deepseascale
+372 - Shelgon
+Level 30
+373 - Salamence
+Level 50
+375 - Metang
+Level 20
+376 - Metagross
+Level 45
++
